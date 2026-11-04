@@ -1,0 +1,60 @@
+{
+  "jour": 22,
+  "semaine": 4,
+  "date": "2026-12-14",
+  "titre": "Lève-toi et brille",
+  "lire": [
+    {
+      "type": "textes",
+      "items": [
+        {
+          "reference": "Ésaïe 60:1",
+          "texte": "Lève-toi, sois éclairée, car ta lumière arrive, et la gloire de l’Éternel se lève sur toi."
+        }
+      ]
+    },
+    {
+      "type": "paragraphe",
+      "texte": "LA RÉVÉLATION DU LEVER"
+    },
+    {
+      "type": "citation",
+      "texte": "Voici la phrase qui change tout\u00a0: «\u00a0Dieu ne fait pas briller sa lumière sur toi pour que tu restes à terre. S’Il t’éclaire, c’est pour que tu te mettes debout.\u00a0»"
+    },
+    {
+      "type": "paragraphe",
+      "texte": "Beaucoup font l’erreur d’attendre que l’obscurité disparaisse totalement avant de bouger. Mais le prophète dit le contraire\u00a0: Mets-toi debout D’ABORD, et c’est en te levant que ta lumière va jaillir. «\u00a0Rester allongé alors que la lumière est déjà là, c’est la mépriser\u00a0». Tu es resté prostré dans le découragement, dans l’attente, dans le sentiment d’échec. Ce matin, Dieu ne te demande pas de briller à 1000%, Il te demande simplement de te lever de là où tu es tombé."
+    },
+    {
+      "type": "figure",
+      "titre": "LE PARALYTIQUE DE BÉTHESDA",
+      "sous_titre": null,
+      "blocs": [
+        {
+          "type": "textes",
+          "items": [
+            {
+              "reference": "Jean 5:8",
+              "texte": "Jésus lui dit\u00a0: Lève-toi, prends ton grabat, et marche."
+            }
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Un homme couché depuis 38 ans au bord de la piscine, dans l’ombre. Jésus arrive et ne fait pas une longue prière, Il lui lance un ordre qui parait impossible\u00a0: «\u00a0Lève-toi, prends ton grabat et marche\u00a0». Il aurait pu répondre «\u00a0Je n’ai pas de force\u00a0». Mais le miracle n’était pas caché dans une prière, il était caché dans l’obéissance à se lever. Au moment où il a essayé de se lever, la force est entrée dans ses jambes."
+        }
+      ]
+    }
+  ],
+  "agir": {
+    "action": {
+      "consigne": null,
+      "versets": []
+    },
+    "prieres": [
+      "Toi, esprit qui me cloue au sol et me maintiens dans la poussière, je te secoue et je te chasse\u00a0!",
+      "Je sors maintenant de la dépression, de la honte, de la longue attente, je me lève par la puissance de Dieu\u00a0!",
+      "Ma lumière est arrivée, je refuse de l’accueillir en restant couché\u00a0!"
+    ]
+  }
+}
