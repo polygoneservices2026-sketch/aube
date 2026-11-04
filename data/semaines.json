@@ -1,0 +1,192 @@
+[
+  {
+    "numero": 1,
+    "nom": "Exposer",
+    "jour_debut": 1,
+    "jour_fin": 7,
+    "date_debut": "2026-11-23",
+    "date_fin": "2026-11-29",
+    "verset": {
+      "reference": "Genèse 1:2",
+      "texte": "La terre était informe et vide\u00a0: il y avait des ténèbres à la surface de l’abîme, et l’Esprit de Dieu se mouvait au-dessus des eaux."
+    },
+    "jours": [
+      {
+        "jour": 1,
+        "titre": "Ce n’est pas ton identité, c’est ta saison"
+      },
+      {
+        "jour": 2,
+        "titre": "Les 4 portes"
+      },
+      {
+        "jour": 3,
+        "titre": "La repentance qui guérit l’âme"
+      },
+      {
+        "jour": 4,
+        "titre": "Dieu est dans tes ténèbres avec toi"
+      },
+      {
+        "jour": 5,
+        "titre": "Les ténèbres ont une date d’expiration"
+      },
+      {
+        "jour": 6,
+        "titre": "Brûler les ponts"
+      },
+      {
+        "jour": 7,
+        "titre": "Si ta lampe n’a pas d’huile, elle s’éteint, même si tu es oint"
+      }
+    ]
+  },
+  {
+    "numero": 2,
+    "nom": "Allumer",
+    "jour_debut": 8,
+    "jour_fin": 14,
+    "date_debut": "2026-11-30",
+    "date_fin": "2026-12-06",
+    "verset": {
+      "reference": "Jean 8:12",
+      "texte": "Jésus leur parla de nouveau, et dit\u00a0: Je suis la lumière du monde\u00a0; celui qui me suit ne marchera pas dans les ténèbres, mais il aura la lumière de la vie."
+    },
+    "jours": [
+      {
+        "jour": 8,
+        "titre": "Je suis la lumière"
+      },
+      {
+        "jour": 9,
+        "titre": "La Parole comme épée"
+      },
+      {
+        "jour": 10,
+        "titre": "L’arme atomique de la louange"
+      },
+      {
+        "jour": 11,
+        "titre": "Le Sang qui parle plus fort que les ténèbres"
+      },
+      {
+        "jour": 12,
+        "titre": "L’autorité de la position assise"
+      },
+      {
+        "jour": 13,
+        "titre": "L’onction qui brise le joug"
+      },
+      {
+        "jour": 14,
+        "titre": "Jour de Lumière\u00a0: le décret de la lumière"
+      }
+    ]
+  },
+  {
+    "numero": 3,
+    "nom": "Faire fuir et récupérer",
+    "jour_debut": 15,
+    "jour_fin": 21,
+    "date_debut": "2026-12-07",
+    "date_fin": "2026-12-13",
+    "verset": {
+      "reference": "1 Samuel 30:8",
+      "texte": "David consulta l’Éternel, en disant\u00a0: Poursuivrai-je cette troupe\u00a0? L’atteindrai-je\u00a0? Et l’Éternel lui répondit\u00a0: Poursuis, car tu l’atteindras, et tu délivreras."
+    },
+    "jours": [
+      {
+        "jour": 15,
+        "titre": "Assez c’est assez\u00a0! La vengeance divine"
+      },
+      {
+        "jour": 16,
+        "titre": "Renverser l’autel du père"
+      },
+      {
+        "jour": 17,
+        "titre": "Fermer les portes aux ténèbres définitivement"
+      },
+      {
+        "jour": 18,
+        "titre": "Je récupère tout ce que les ténèbres ont volé"
+      },
+      {
+        "jour": 19,
+        "titre": "Les décrets qui chassent les ténèbres sur les nations"
+      },
+      {
+        "jour": 20,
+        "titre": "Semer comme une arme pour briser les ténèbres"
+      },
+      {
+        "jour": 21,
+        "titre": "La grande veillée\u00a0: vengeance et restitution"
+      }
+    ]
+  },
+  {
+    "numero": 4,
+    "nom": "Garder la lumière",
+    "jour_debut": 22,
+    "jour_fin": 28,
+    "date_debut": "2026-12-14",
+    "date_fin": "2026-12-20",
+    "verset": {
+      "reference": "Ésaïe 60:1",
+      "texte": "Lève-toi, sois éclairée, car ta lumière arrive, et la gloire de l’Éternel se lève sur toi."
+    },
+    "jours": [
+      {
+        "jour": 22,
+        "titre": "Lève-toi et brille"
+      },
+      {
+        "jour": 23,
+        "titre": "Revêts-toi de lumière"
+      },
+      {
+        "jour": 24,
+        "titre": "Que ta lumière soit vue à Douala"
+      },
+      {
+        "jour": 25,
+        "titre": "Garder l’huile"
+      },
+      {
+        "jour": 26,
+        "titre": "Deviens un chasseur de ténèbres"
+      },
+      {
+        "jour": 27,
+        "titre": "La lumière attire la provision"
+      },
+      {
+        "jour": 28,
+        "titre": "Mémorial"
+      }
+    ]
+  },
+  {
+    "numero": 5,
+    "nom": "Avancer dans la lumière",
+    "jour_debut": 29,
+    "jour_fin": 30,
+    "date_debut": "2026-12-21",
+    "date_fin": "2026-12-22",
+    "verset": {
+      "reference": "Psaume 30:5",
+      "texte": "Car sa colère dure un instant, mais sa grâce toute la vie\u00a0; le soir arrivent les pleurs, et le matin l’allégresse."
+    },
+    "jours": [
+      {
+        "jour": 29,
+        "titre": "Veillée de la fin des ténèbres (de 23 h à l’aube)"
+      },
+      {
+        "jour": 30,
+        "titre": "Culte de témoignage et d’alliance"
+      }
+    ]
+  }
+]

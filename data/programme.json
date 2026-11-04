@@ -1,0 +1,52 @@
+{
+  "id": "tenebres-30-jours",
+  "titre": "Les ténèbres ne régneront pas toujours",
+  "sous_titre": "30 jours pour briser les ténèbres",
+  "slogan_app": "De l’ombre à la lumière",
+  "date_debut": "2026-11-23",
+  "date_fin": "2026-12-22",
+  "nb_jours": 30,
+  "versets_cles": [
+    "Ésaïe 9:1",
+    "Colossiens 1:13",
+    "Psaume 30:5"
+  ],
+  "phrase_de_guerre": {
+    "heure": "05:30",
+    "texte": "«\u00a0Je ne me bats pas POUR la victoire, je me bats DEPUIS la victoire. Je suis assis avec Christ dans les lieux célestes. Mes ténèbres ont une date de péremption, et je décrète leur fin aujourd’hui au nom de Jésus\u00a0!\u00a0»"
+  },
+  "temps_forts": [
+    {
+      "id": "combat",
+      "debut": "23:00",
+      "fin": "00:30",
+      "nom": "Le combat",
+      "sous_titre": "Personnel ou collectif",
+      "description": "C’est l’heure où les autels de ta famille parlent. Nous, on va parler plus fort. C’est le temps du renversement. Pas de sommeil, on veille."
+    },
+    {
+      "id": "lampe",
+      "debut": "06:00",
+      "fin": "12:00",
+      "nom": "La lampe",
+      "sous_titre": "Lecture ou écoute de la Bible",
+      "description": "On ne peut pas chasser les ténèbres qu’on ne connaît pas avec des paroles vides. On allume la lampe. 30 minutes minimum de Parole, pas pour informer ta tête, mais pour armer ta bouche."
+    },
+    {
+      "id": "huile",
+      "debut": "12:00",
+      "fin": "17:00",
+      "nom": "L’huile",
+      "sous_titre": "Louange, adoration et intercession",
+      "description": "On ne demande rien. On remplit l’huile. La louange fait trembler les prisons. L’intercession, c’est prier pour un autre prisonnier. Les ténèbres aiment l’isolement, l’huile aime la communion."
+    },
+    {
+      "id": "rassemblement",
+      "debut": "17:00",
+      "fin": "19:00",
+      "nom": "Le rassemblement",
+      "sous_titre": "Prière collective, en présentiel et en ligne",
+      "description": "Tous les jours on se retrouve. Matthieu 18:19\u00a0: «\u00a0Si deux s’accordent\u00a0». On ne laisse personne combattre seul dans les ténèbres."
+    }
+  ]
+}
