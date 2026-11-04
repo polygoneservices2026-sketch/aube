@@ -1,6 +1,6 @@
 // AUBE — Service worker (Déployeur)
 // À CHAQUE MISE À JOUR du site, changer le numéro ci-dessous (ex. aube-1.0.1).
-const VERSION = "aube-1.0.2";
+const VERSION = "aube-1.0.3";
 
 // Fichiers pré-chargés à l'installation (chemins relatifs).
 // Un fichier absent (police non déposée, jour pas encore publié) est simplement ignoré.
