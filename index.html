@@ -55,6 +55,38 @@
     </nav>
   </div>
 
+  <!-- Filet de sécurité : si l'application n'a pas démarré après 8 s, on explique au lieu de rester bloqué -->
+  <script>
+  (function () {
+    setTimeout(function () {
+      var c = document.getElementById("chargement");
+      if (!c || c.hidden) return;
+      var cause = !window.Aube ? "Le fichier js/aube-core.js est absent ou incomplet."
+        : !window.Routeur ? "Le fichier js/router.js est absent ou incomplet."
+        : !window.__aubeDemarre ? "Le fichier js/ui.js est absent ou incomplet."
+        : "Le chargement des données est trop lent. Vérifiez votre connexion.";
+      var zone = document.createElement("div");
+      zone.setAttribute("role", "alert");
+      zone.style.cssText = "position:absolute;left:0;right:0;bottom:12%;padding:0 24px;text-align:center;font:16px/1.5 system-ui,sans-serif;color:#171717";
+      var t = document.createElement("p"); t.textContent = "Le chargement dure plus longtemps que prévu."; t.style.fontWeight = "700";
+      var d = document.createElement("p"); d.textContent = cause; d.style.cssText = "color:#6B6B6B;font-size:14px";
+      function bouton(txt, fn) {
+        var b = document.createElement("button"); b.type = "button"; b.textContent = txt;
+        b.style.cssText = "margin:6px;padding:14px 20px;min-height:48px;border:1px solid #171717;background:#171717;color:#fff;font:700 15px system-ui,sans-serif";
+        b.onclick = fn; return b;
+      }
+      function reparer() {
+        var f = [];
+        if (navigator.serviceWorker && navigator.serviceWorker.getRegistrations) f.push(navigator.serviceWorker.getRegistrations().then(function (r) { return Promise.all(r.map(function (x) { return x.unregister(); })); }));
+        if (window.caches && caches.keys) f.push(caches.keys().then(function (k) { return Promise.all(k.map(function (n) { return caches.delete(n); })); }));
+        Promise.all(f).catch(function () {}).then(function () { location.reload(); });
+      }
+      zone.append(t, d, bouton("Réessayer", function () { location.reload(); }), bouton("Réparer l’application", reparer));
+      c.append(zone);
+    }, 8000);
+  })();
+  </script>
+
   <script src="js/aube-core.js"></script>
   <script src="js/router.js"></script>
   <script src="js/ui.js"></script>
