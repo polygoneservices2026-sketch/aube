@@ -842,6 +842,7 @@
   }
 
   async function demarrer() {
+    window.__aubeDemarre = true;
     if (!window.Aube || !window.Routeur) { afficherFatal(); return; }
     try { await Aube.pret; } catch (e) { afficherFatal(); return; }
 
