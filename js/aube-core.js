@@ -303,7 +303,11 @@
     if (modeInjecte) throw erreur('INTROUVABLE', 'Donnée absente : ' + chemin);
     let reponse;
     try {
-      reponse = await fetch(chemin);
+      // Délai maximal de 12 s : sans cela, une connexion bloquée laisserait l'écran d'attente indéfiniment
+      const ctrl = (typeof AbortController === 'function') ? new AbortController() : null;
+      const minuteur = ctrl ? setTimeout(function () { ctrl.abort(); }, 12000) : null;
+      try { reponse = await fetch(chemin, ctrl ? { signal: ctrl.signal } : undefined); }
+      finally { if (minuteur) clearTimeout(minuteur); }
     } catch (e) {
       throw erreur('INTROUVABLE', 'Réseau indisponible pour : ' + chemin);
     }
