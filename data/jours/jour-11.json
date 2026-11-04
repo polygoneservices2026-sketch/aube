@@ -1,0 +1,76 @@
+{
+  "jour": 11,
+  "semaine": 2,
+  "date": "2026-12-03",
+  "titre": "Le Sang qui parle plus fort que les ténèbres",
+  "lire": [
+    {
+      "type": "textes",
+      "items": [
+        {
+          "reference": "Colossiens 1:13",
+          "texte": "qui nous a délivrés de la puissance des ténèbres et nous a transportés dans le royaume du Fils de son amour,"
+        },
+        {
+          "reference": "Hébreux 12:24",
+          "texte": "de Jésus qui est le médiateur de la nouvelle alliance, et du sang de l’aspersion qui parle mieux que celui d’Abel."
+        }
+      ]
+    },
+    {
+      "type": "citation",
+      "texte": "Le sang d’Abel criait vengeance du sol, le Sang de Jésus crie miséricorde et restitution du ciel."
+    },
+    {
+      "type": "paragraphe",
+      "texte": "Tant que le sang d’Abel criait, Caïn était maudit et vagabond. Quand le Sang de Jésus a crié, toi tu es béni et établi. Tout autel a une voix. L’autel de ton village parle la nuit."
+    },
+    {
+      "type": "paragraphe",
+      "texte": "Tu ne peux pas faire taire un autel qui parle avec des larmes. Tu le fais taire avec un autre autel qui parle plus fort. C’est autel contre autel, voix contre voix."
+    },
+    {
+      "type": "paragraphe",
+      "texte": "Le Sang n’est pas une doctrine, c’est un langage que les ténèbres comprennent."
+    },
+    {
+      "type": "figure",
+      "titre": "LE SANG AUX LINTEAUX",
+      "sous_titre": null,
+      "blocs": [
+        {
+          "type": "textes",
+          "items": [
+            {
+              "reference": "Exode 12:13",
+              "texte": "Le sang vous servira de signe sur les maisons où vous serez\u00a0; je verrai le sang, et je passerai par-dessus vous, et il n’y aura point de plaie qui vous détruise, quand je frapperai le pays d’Égypte."
+            }
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "L’ange de la mort n’a pas regardé la sainteté de la famille, il a regardé le sang. Une famille qui avait le sang a été épargnée même si elle n’était pas parfaite. Le Sang a parlé pour elle."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "LE CACHET DU PRÉSIDENT"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "quand un document porte le cachet de la Présidence, aucun gendarme ne peut le contester. Ton front a un cachet\u00a0: le Sang. Quand les ténèbres le voient, elles doivent laisser passer."
+        }
+      ]
+    }
+  ],
+  "agir": {
+    "action": {
+      "consigne": null,
+      "versets": []
+    },
+    "prieres": [
+      "Tout autel de mon père, de ma mère qui crie contre moi la nuit, tais-toi à jamais par le Sang de Jésus\u00a0!",
+      "Sang de Jésus, parle restitution pour mes années volées\u00a0!",
+      "Par le Sang, je sors définitivement du royaume des ténèbres pour entrer dans la lumière\u00a0!"
+    ]
+  }
+}

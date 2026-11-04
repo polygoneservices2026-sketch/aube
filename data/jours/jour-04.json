@@ -1,0 +1,59 @@
+{
+  "jour": 4,
+  "semaine": 1,
+  "date": "2026-11-26",
+  "titre": "Dieu est dans tes ténèbres avec toi",
+  "lire": [
+    {
+      "type": "textes",
+      "items": [
+        {
+          "reference": "Psaume 139:11-12",
+          "texte": "^11^Si je dis\u00a0: Au moins les ténèbres me couvriront, La nuit sera la lumière autour de moi\u00a0! ^12^Même les ténèbres ne sont pas obscures pour toi, La nuit brille comme le jour, Et les ténèbres comme la lumière."
+        },
+        {
+          "reference": "Genèse 39:21",
+          "texte": "L’Éternel fut avec Joseph, il étendit sa bonté sur lui, et lui fit trouver grâce aux yeux du chef de la prison."
+        }
+      ]
+    },
+    {
+      "type": "citation",
+      "texte": "Les ténèbres ne sont pas l’absence de Dieu, ce sont les coulisses où Dieu prépare ceux qui vont régner."
+    },
+    {
+      "type": "paragraphe",
+      "texte": "Joseph, l’Éternel fut avec lui DANS la prison. Dieu n’était pas dehors à l’attendre, Il était dedans avec lui. Dieu ne délivre pas toujours DE la prison, Il manifeste sa gloire DANS la prison pour que tu connaisses sa présence."
+    },
+    {
+      "type": "figure",
+      "titre": "JOSEPH EN PRISON",
+      "sous_titre": null,
+      "blocs": [
+        {
+          "type": "textes",
+          "items": [
+            {
+              "reference": "Genèse 39:21",
+              "texte": null
+            }
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "C’est en prison que Joseph a appris à interpréter les songes, à gérer des prisonniers. Sans la prison, pas de palais. Tes ténèbres actuelles sont ton école de gestion pour la lumière de demain."
+        }
+      ]
+    }
+  ],
+  "agir": {
+    "action": {
+      "consigne": "Jour de contemplation.",
+      "versets": []
+    },
+    "prieres": [
+      "Seigneur, ouvre mes yeux pour te voir dans mes ténèbres\u00a0!",
+      "Que veux-tu m’enseigner dans cette saison pour que je règne demain\u00a0?"
+    ]
+  }
+}

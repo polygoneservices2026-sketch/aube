@@ -1,0 +1,66 @@
+{
+  "jour": 2,
+  "semaine": 1,
+  "date": "2026-11-24",
+  "titre": "Les 4 portes",
+  "lire": [
+    {
+      "type": "textes",
+      "items": [
+        {
+          "reference": "Ésaïe 60:2",
+          "texte": "Voici, les ténèbres couvrent la terre, Et l’obscurité les peuples\u00a0; Mais sur toi l’Éternel se lève, Sur toi sa gloire paraît."
+        }
+      ]
+    },
+    {
+      "type": "citation",
+      "texte": "Chasser un démon sans fermer la porte, c’est nettoyer une maison en laissant la fenêtre ouverte au voleur."
+    },
+    {
+      "type": "liste",
+      "titre": "Les 4 portes\u00a0:",
+      "ordonnee": true,
+      "items": [
+        "La chair [péché volontaire]",
+        "L’âme blessée",
+        "La famille",
+        "Les paroles [malédictions]."
+      ]
+    },
+    {
+      "type": "paragraphe",
+      "texte": "L’ennemi ne vient pas là où il n’a pas de droit légal. Il vient là où tu lui as donné une clé, par la rancune, le rejet, les autels."
+    },
+    {
+      "type": "figure",
+      "titre": "LES 4 LÉPREUX À LA PORTE DE SAMARIE",
+      "sous_titre": null,
+      "blocs": [
+        {
+          "type": "textes",
+          "items": [
+            {
+              "reference": "2 Rois 7:3",
+              "texte": "Il y avait à l’entrée de la porte quatre lépreux, qui se dirent l’un à l’autre\u00a0: Pourquoi restons-nous ici jusqu’à ce que nous mourions\u00a0?"
+            }
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Tant qu’ils restaient assis à la porte, ils mouraient. Ils ont dû se lever et fermer la porte de la mort pour entrer dans la porte de l’abondance."
+        }
+      ]
+    }
+  ],
+  "agir": {
+    "action": {
+      "consigne": "Identifie tes 4 portes principales aujourd’hui. Écris-les et prie pour les fermer.",
+      "versets": []
+    },
+    "prieres": [
+      "Porte de la chair et de l’âme blessée dans ma vie, je te ferme à jamais par le Sang\u00a0!",
+      "Porte de ma famille et de mes paroles qui a laissé entrer les ténèbres, je te scelle\u00a0!"
+    ]
+  }
+}

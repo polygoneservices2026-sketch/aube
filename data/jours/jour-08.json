@@ -1,0 +1,54 @@
+{
+  "jour": 8,
+  "semaine": 2,
+  "date": "2026-11-30",
+  "titre": "Je suis la lumière",
+  "lire": [
+    {
+      "type": "textes",
+      "items": [
+        {
+          "reference": "Jean 8:12",
+          "texte": "Jésus leur parla de nouveau, et dit\u00a0: Je suis la lumière du monde\u00a0; celui qui me suit ne marchera pas dans les ténèbres, mais il aura la lumière de la vie."
+        },
+        {
+          "reference": "Matthieu 5:14",
+          "texte": "Vous êtes la lumière du monde. Une ville située sur une montagne ne peut être cachée\u00a0;"
+        }
+      ]
+    },
+    {
+      "type": "citation",
+      "texte": "Tu n’as pas la lumière, tu ES la lumière."
+    },
+    {
+      "type": "paragraphe",
+      "texte": "Une ampoule ne cherche pas la lumière, elle EST la lumière qui cherche les ténèbres. Quand tu entres dans un endroit sombre ce ne sont pas les ténèbres qui t’interrogent, c’est toi qui interroges les ténèbres. Jésus dormait dans les ténèbres de la tempête. Les disciples criaient. Il s’est levé et a dit «\u00a0Silence\u00a0». La lumière n’a pas prié les ténèbres, elle leur a ordonné."
+    },
+    {
+      "type": "figure",
+      "titre": "JÉSUS DANS LA BARQUE",
+      "sous_titre": null,
+      "blocs": [
+        {
+          "type": "textes",
+          "items": [
+            {
+              "reference": "Marc 4:39",
+              "texte": "Il se leva, menaça le vent, et dit à la mer\u00a0: Silence\u00a0! tais-toi\u00a0! Le vent cessa, et il se fit un grand calme."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "agir": {
+    "action": {
+      "consigne": "Aujourd’hui, marche dans ton quartier en déclarant «\u00a0Je suis la lumière de ce quartier\u00a0».",
+      "versets": []
+    },
+    "prieres": [
+      "Je déclare que je suis la lumière qui fait fuir les ténèbres de ma famille\u00a0!"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "jour": 15,
+  "semaine": 3,
+  "date": "2026-12-07",
+  "titre": "Assez c’est assez\u00a0! La vengeance divine",
+  "lire": [
+    {
+      "type": "citation",
+      "texte": "Il y a un niveau de prière où tu ne demandes plus, tu exiges la vengeance."
+    },
+    {
+      "type": "paragraphe",
+      "texte": "Dieu a dit\u00a0: À moi la vengeance. Quand tu as assez pleuré, Dieu se lève pour venger."
+    },
+    {
+      "type": "paragraphe",
+      "texte": "La vengeance divine, ce n’est pas de la haine, c’est la justice qui dit\u00a0: Le temps du voleur est fini, il doit restituer 7 fois."
+    },
+    {
+      "type": "figure",
+      "titre": "LA VEUVE ET LE JUGE INIQUE",
+      "sous_titre": null,
+      "blocs": [
+        {
+          "type": "textes",
+          "items": [
+            {
+              "reference": "Luc 18:1-8",
+              "texte": "^1^Jésus leur adressa une parabole, pour montrer qu’il faut toujours prier, et ne point se relâcher. ^2^Il dit\u00a0: Il y avait dans une ville un juge qui ne craignait point Dieu et qui n’avait d’égards pour personne. ^3^Il y avait aussi dans cette ville une veuve, qui venait lui dire\u00a0: Rends-moi justice contre ma partie adverse. ^4^Pendant longtemps il refusa. Mais ensuite il dit en lui-même\u00a0: Quoique je ne craigne point Dieu et que je n’aie d’égards pour personne, ^5^néanmoins, parce que cette veuve m’importune, je lui ferai justice, afin qu’elle ne vienne pas sans cesse me rompre la tête. ^6^Et le Seigneur ajouta\u00a0: Écoutez ce que dit le juge inique. ^7^Et Dieu ne fera-t-il pas justice à ses élus, qui crient à lui jour et nuit, et tardera-t-il à leur égard\u00a0? ^8^Je vous le dis, il leur fera promptement justice. Mais, quand le Fils de l’homme viendra, trouvera-t-il la foi sur la terre\u00a0?"
+            }
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Jésus dit\u00a0: «\u00a0Écoutez ce que dit le juge inique... Et Dieu ne ferait-il pas justice à ses élus qui crient à lui jour et nuit\u00a0?\u00a0» La veuve n’a pas prié poliment, elle a dit «\u00a0Venge-moi\u00a0!\u00a0». Elle a harcelé jusqu’à obtenir justice."
+        }
+      ]
+    }
+  ],
+  "agir": {
+    "action": {
+      "consigne": "Aujourd’hui, prie 1 heure à haute voix, en marchant, avec une sainte colère. Ne murmure pas, crie.",
+      "versets": []
+    },
+    "prieres": [
+      "Ô Dieu, lève-Toi et venge-moi de la méchanceté des ténèbres qui dure depuis des années\u00a0!",
+      "Tout homme fort assis sur ma destinée, sur mon mariage, mes finances dans les ténèbres, tombe et meurs\u00a0!",
+      "Que le feu de la vengeance divine localise et consume tout pouvoir des ténèbres autour de moi\u00a0!"
+    ]
+  }
+}

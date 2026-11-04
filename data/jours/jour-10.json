@@ -1,0 +1,50 @@
+{
+  "jour": 10,
+  "semaine": 2,
+  "date": "2026-12-02",
+  "titre": "L’arme atomique de la louange",
+  "lire": [
+    {
+      "type": "textes",
+      "items": [
+        {
+          "reference": "Actes 16:25-26",
+          "texte": "^25^Vers le milieu de la nuit, Paul et Silas priaient et chantaient les louanges de Dieu, et les prisonniers les entendaient. ^26^Tout à coup, il se fit un grand tremblement de terre, en sorte que les fondements de la prison furent ébranlés\u00a0; au même instant, toutes les portes s’ouvrirent, et les liens de tous les prisonniers furent détachés."
+        }
+      ]
+    },
+    {
+      "type": "citation",
+      "texte": "L’action de grâce est la foi qui remercie avant de voir."
+    },
+    {
+      "type": "paragraphe",
+      "texte": "La louange est la foi qui combat en chantant. Si tu loues dans la prison, la prison devient une scène de gloire. La louange à minuit n’est pas une chanson, c’est une arme de guerre qui fait trembler les prisons. Ils ont mis les chantres devant l’armée. Au moment où ils ont commencé à louer, Dieu a tendu une embuscade aux ténèbres. La louange a combattu à leur place."
+    },
+    {
+      "type": "figure",
+      "titre": "JOSAPHAT",
+      "sous_titre": null,
+      "blocs": [
+        {
+          "type": "textes",
+          "items": [
+            {
+              "reference": "2 Chroniques 20:22",
+              "texte": "Au moment où l’on commençait les chants et les louanges, l’Éternel plaça une embuscade contre les fils d’Ammon et de Moab et ceux de la montagne de Séir, qui étaient venus contre Juda. Et ils furent battus."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "agir": {
+    "action": {
+      "consigne": "Ce soir 00h00-00h30, mets de la musique et loue sans rien demander.",
+      "versets": []
+    },
+    "prieres": [
+      "Prisons de ma vie, tremblez au son de ma louange\u00a0!"
+    ]
+  }
+}

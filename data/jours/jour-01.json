@@ -1,0 +1,88 @@
+{
+  "jour": 1,
+  "semaine": 1,
+  "date": "2026-11-23",
+  "titre": "Ce n’est pas ton identité, c’est ta saison",
+  "lire": [
+    {
+      "type": "textes",
+      "items": [
+        {
+          "reference": "Genèse 1:2-3",
+          "texte": "^2^La terre était informe et vide\u00a0: il y avait des ténèbres à la surface de l’abîme, et l’esprit de Dieu se mouvait au-dessus des eaux. ^3^Dieu dit\u00a0: Que la lumière soit\u00a0! Et la lumière fut."
+        },
+        {
+          "reference": "Ésaïe 42:22",
+          "texte": "Et c’est un peuple pillé et dépouillé\u00a0! On les a tous enchaînés dans des cavernes, Plongés dans des cachots\u00a0; Ils ont été mis au pillage, et personne qui les délivre\u00a0! Dépouillés, et personne qui dise\u00a0: Restitue\u00a0!"
+        }
+      ]
+    },
+    {
+      "type": "citation",
+      "texte": "Tu ne deviens pas lumière, tu es lumière dans ton esprit."
+    },
+    {
+      "type": "paragraphe",
+      "texte": "Les ténèbres sont autour de toi, pas en toi. Genèse 1:2 dit que les ténèbres couvraient la surface, mais la création était en dessous. Tu es la création, les ténèbres sont la surface. Elles ne te définissent pas. Dieu ne te voit pas dans les ténèbres, Il te voit en Christ dans la lumière. Tant que tu te vois comme ténèbres, tu resteras assis dedans."
+    },
+    {
+      "type": "figure",
+      "titre": "LE PEUPLE D’ISRAËL EN ÉGYPTE",
+      "sous_titre": null,
+      "blocs": [
+        {
+          "type": "textes",
+          "items": [
+            {
+              "reference": "Exode 10:23",
+              "texte": "On ne se voyait pas les uns les autres, et personne ne se leva de sa place pendant trois jours. Mais il y avait de la lumière dans les lieux où habitaient tous les enfants d’Israël."
+            }
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Il y avait d’épaisses ténèbres en Égypte, mais «\u00a0il y avait de la lumière là où habitaient les enfants d’Israël\u00a0». Même pays, deux réalités. Tu es en Égypte géographiquement, mais spirituellement tu es à Goshen."
+        }
+      ]
+    }
+  ],
+  "agir": {
+    "action": {
+      "consigne": "Écris JE SUIS avec 7 versets\u00a0: 2 Cor 5:17, 1 Pierre 2:9, Éph 2:6, Rom 8:37, Col 1:13, Jean 1:12, Ésaïe 60:1. Colle-les sur ton miroir.",
+      "versets": [
+        {
+          "reference": "2 Corinthiens 5:17",
+          "texte": "Si quelqu’un est en Christ, il est une nouvelle créature. Les choses anciennes sont passées\u00a0; voici, toutes choses sont devenues nouvelles."
+        },
+        {
+          "reference": "1 Pierre 2:9",
+          "texte": "Vous, au contraire, vous êtes une race élue, un sacerdoce royal, une nation sainte, un peuple acquis, afin que vous annonciez les vertus de celui qui vous a appelés des ténèbres à son admirable lumière,"
+        },
+        {
+          "reference": "Éphésiens 2:6",
+          "texte": "il nous a ressuscités ensemble, et nous a fait asseoir ensemble dans les lieux célestes, en Jésus-Christ,"
+        },
+        {
+          "reference": "Romains 8:37",
+          "texte": "Mais dans toutes ces choses nous sommes plus que vainqueurs par celui qui nous a aimés."
+        },
+        {
+          "reference": "Colossiens 1:13",
+          "texte": "qui nous a délivrés de la puissance des ténèbres et nous a transportés dans le royaume du Fils de son amour,"
+        },
+        {
+          "reference": "Jean 1:12",
+          "texte": "Mais à tous ceux qui l’ont reçue, à ceux qui croient en son nom, elle a donné le pouvoir de devenir enfants de Dieu, lesquels sont nés,"
+        },
+        {
+          "reference": "Ésaïe 60:1",
+          "texte": "Lève-toi, sois éclairée, car ta lumière arrive, Et la gloire de l’Éternel se lève sur toi."
+        }
+      ]
+    },
+    "prieres": [
+      "Père, j’arrache le mensonge que je suis ténèbres, je déclare que je suis enfant de lumière\u00a0!",
+      "Toute prison qui a mis mon identité en cage, ouvre-toi par le feu\u00a0!"
+    ]
+  }
+}

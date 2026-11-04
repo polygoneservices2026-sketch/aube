@@ -1,0 +1,47 @@
+{
+  "jour": 14,
+  "semaine": 2,
+  "date": "2026-12-06",
+  "titre": "Jour de Lumière\u00a0: le décret de la lumière",
+  "lire": [
+    {
+      "type": "textes",
+      "items": [
+        {
+          "reference": "Malachie 4:2",
+          "texte": "Mais pour vous qui craignez mon nom, se lèvera le soleil de la justice, et la guérison sera sous ses ailes\u00a0; vous sortirez, et vous sauterez comme les veaux d’une étable."
+        },
+        {
+          "reference": "Psaume 112:4",
+          "texte": "Pour les hommes droits la lumière se lève dans les ténèbres\u00a0; il est miséricordieux, compatissant et juste."
+        }
+      ]
+    },
+    {
+      "type": "citation",
+      "texte": "La lumière de la guérison n’est pas une idée, c’est la présence de Jésus qui entre."
+    },
+    {
+      "type": "paragraphe",
+      "texte": "Quand la lumière s’allume, la maladie comprend qu’elle n’a plus de droit. Elle ne négocie pas, elle fuit."
+    },
+    {
+      "type": "paragraphe",
+      "texte": "Tu ne pries pas pour la lumière, tu allumes la lumière. La lumière se commande."
+    },
+    {
+      "type": "paragraphe",
+      "texte": "*«\u00a0Mais pour vous qui craignez mon nom, se lèvera le soleil de la justice, et la guérison sera sous ses ailes.\u00a0»* Le soleil ne demande pas la permission aux ténèbres pour se lever. Il se lève, et les ténèbres disparaissent."
+    }
+  ],
+  "agir": {
+    "action": {
+      "consigne": null,
+      "versets": []
+    },
+    "prieres": [
+      "Lève-toi sur moi, soleil de justice, avec la guérison sous tes ailes\u00a0!",
+      "Je sors du noir, j’entre dans mon jour au nom de Jésus\u00a0!"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "jour": 5,
+  "semaine": 1,
+  "date": "2026-11-27",
+  "titre": "Les ténèbres ont une date d’expiration",
+  "lire": [
+    {
+      "type": "textes",
+      "items": [
+        {
+          "reference": "Genèse 1:5",
+          "texte": "Dieu appela la lumière jour, et il appela les ténèbres nuit. Ainsi, il y eut un soir, et il y eut un matin\u00a0: ce fut le premier jour."
+        },
+        {
+          "reference": "Psaume 30:5",
+          "texte": "Car sa colère dure un instant, mais sa grâce toute la vie\u00a0; Le soir arrivent les pleurs, et le matin l’allégresse."
+        }
+      ]
+    },
+    {
+      "type": "citation",
+      "texte": "Dieu a créé le soir ET le matin."
+    },
+    {
+      "type": "paragraphe",
+      "texte": "S’Il a créé les deux, c’est que le soir a une fin. Aucune nuit n’est éternelle. Tu as l’autorité de commander au matin. Les ténèbres n’obéissent pas aux supplications, elles obéissent aux commandements. Ce que tu ne commandes pas, te commande."
+    },
+    {
+      "type": "figure",
+      "titre": "LA NUIT DE JACOB À PENIEL",
+      "sous_titre": null,
+      "blocs": [
+        {
+          "type": "textes",
+          "items": [
+            {
+              "reference": "Genèse 32:26",
+              "texte": "Il dit\u00a0: Laisse-moi aller, car l’aurore se lève. Jacob répondit\u00a0: Je ne te laisserai point aller, que tu ne m’aies béni."
+            }
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Jacob a dit à l’ange «\u00a0Je ne te laisserai pas aller que tu ne m’aies béni avant que l’aube arrive\u00a0». Il a commandé à l’aube de ne pas se lever sans sa bénédiction. Toi aussi, tu dois commander à ton matin."
+        }
+      ]
+    }
+  ],
+  "agir": {
+    "action": {
+      "consigne": "À 5h00 lève-toi et commande ton matin.",
+      "versets": []
+    },
+    "prieres": [
+      "Ténèbres de ma vie, votre bail a expiré, dégagez maintenant\u00a0!",
+      "Toi, pouvoir qui a programmé des ténèbres sans fin dans ma vie, meurs par le feu\u00a0!",
+      "Je commande au matin, vomis ma bénédiction\u00a0!"
+    ]
+  }
+}

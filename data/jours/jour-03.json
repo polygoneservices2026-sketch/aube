@@ -1,0 +1,60 @@
+{
+  "jour": 3,
+  "semaine": 1,
+  "date": "2026-11-25",
+  "titre": "La repentance qui guérit l’âme",
+  "lire": [
+    {
+      "type": "textes",
+      "items": [
+        {
+          "reference": "2 Chroniques 7:14",
+          "texte": "et si mon peuple, sur qui mon nom est invoqué, s’humilie, prie, et cherche ma face, et s’il revient de ses mauvaises voies, je l’exaucerai des cieux, je lui pardonnerai son péché, et je guérirai son pays."
+        },
+        {
+          "reference": "Psaume 147:3",
+          "texte": "Il guérit ceux qui ont le cœur brisé, Et il panse leurs blessures."
+        }
+      ]
+    },
+    {
+      "type": "citation",
+      "texte": "Le baume de Galaad ne guérit pas le corps, il guérit le coeur qui saigne en secret."
+    },
+    {
+      "type": "paragraphe",
+      "texte": "Dieu ne délivre pas une personne qui veut garder son poison. Tu ne peux pas recevoir la délivrance de demain avec la rancune d’hier dans ton coeur. La rancune, c’est boire du poison en espérant que l’autre meure."
+    },
+    {
+      "type": "figure",
+      "titre": "ESAÜ",
+      "sous_titre": null,
+      "blocs": [
+        {
+          "type": "textes",
+          "items": [
+            {
+              "reference": "Hébreux 12:15",
+              "texte": "Veillez à ce que personne ne se prive de la grâce de Dieu\u00a0; à ce qu’aucune racine d’amertume, poussant des rejetons, ne produise du trouble, et que plusieurs n’en soient infectés\u00a0;"
+            }
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Esaü avait une racine d’amertume. Une racine invisible a détruit toute une destinée. Une seule rancune non traitée devient une racine qui contamine toute ta saison."
+        }
+      ]
+    }
+  ],
+  "agir": {
+    "action": {
+      "consigne": "Prends 30 min aujourd’hui pour écrire le nom de ceux qui t’ont blessé et relâche le pardon à voix haute.",
+      "versets": []
+    },
+    "prieres": [
+      "Tout poison de rancune caché dans mon âme, sors par le feu\u00a0!",
+      "Sang de Jésus, lave le disque dur de mon âme\u00a0!",
+      "Je brise l’envoûtement de l’amertume qui me maintient dans les ténèbres\u00a0!"
+    ]
+  }
+}
